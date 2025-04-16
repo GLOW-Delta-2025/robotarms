@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Project specific
+config.json
+*.log
+serial_logs/
+
+# System
+.DS_Store 
